@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1214
-NormalPos.bottom=474
+NormalPos.right=857
+NormalPos.bottom=303
 Class=LaTeXView
-Document=tex\169-183.tex
+Document=ZarysMatematykiWyzszej.tex
 
 [Frame0_View0,0]
-TopLine=0
-Cursor=25511
+TopLine=1
+Cursor=732
 
 [Frame1]
 Flags=0
@@ -29,35 +29,17 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1214
-NormalPos.bottom=474
-Class=LaTeXView
-Document=ZarysMatematykiWyzszej.tex
-
-[Frame1_View0,0]
-TopLine=0
-Cursor=664
-
-[Frame2]
-Flags=0
-ShowCmd=1
-MinPos.x=-1
-MinPos.y=-1
-MaxPos.x=-1
-MaxPos.y=-1
-NormalPos.left=4
-NormalPos.top=26
-NormalPos.right=1214
-NormalPos.bottom=474
+NormalPos.right=857
+NormalPos.bottom=303
 Class=LaTeXView
 Document=smajewskimathbook.sty
 
-[Frame2_View0,0]
+[Frame1_View0,0]
 TopLine=0
 Cursor=2155
 
 [SessionInfo]
-FrameCount=3
+FrameCount=2
 ActiveFrame=0
 
 [Bookmarks]
